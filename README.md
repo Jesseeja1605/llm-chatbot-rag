@@ -1,2 +1,20 @@
-# llm-chatbot-rag
-Developed a simple LLM-style chatbot using TF-IDF and cosine similarity for query-based response retrieval.
+# LLM Chatbot (RAG)
+
+## Overview
+A simple chatbot that answers questions using TF-IDF and cosine similarity.
+
+## Tech Stack
+- Python
+- NLP
+- Scikit-learn
+
+## Features
+- Query-based response system
+- Knowledge base search
+- Simple RAG implementation
+
+## Output
+![Output](output.png)
+
+## How to Run
+Run in Google Colab
